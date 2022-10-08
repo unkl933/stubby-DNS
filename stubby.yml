@@ -49,7 +49,7 @@ upstream_recursive_servers:
 #  - address_data: 2620:fe::11
 #    tls_auth_name: "dns11.quad9.net"
 #  - address_data: 2620:fe::fe:11
-#  - tls_auth_name: "dns11.quad9.net"
+#    tls_auth_name: "dns11.quad9.net"
 
 ### Quad 9 'insecure' service - No filtering, does DNSSEC
 
